@@ -1,0 +1,640 @@
+Fitter prepared. Device is cuda:0
+
+2020-06-10T09:33:39.838711
+LR: 0.0004
+[RESULT]: Train. Epoch: 0, summary_loss: 0.73986, time: 665.75646
+[RESULT]: Val. Epoch: 0, summary_loss: 0.50401, time: 51.45222
+
+2020-06-10T09:45:37.759488
+LR: 0.0004
+[RESULT]: Train. Epoch: 1, summary_loss: 0.53451, time: 664.43914
+[RESULT]: Val. Epoch: 1, summary_loss: 0.44241, time: 51.38312
+
+2020-06-10T09:57:34.349689
+LR: 0.0004
+[RESULT]: Train. Epoch: 2, summary_loss: 0.50890, time: 662.94777
+[RESULT]: Val. Epoch: 2, summary_loss: 0.49234, time: 51.53835
+
+2020-06-10T10:09:29.216819
+LR: 0.0004
+[RESULT]: Train. Epoch: 3, summary_loss: 0.49288, time: 660.93440
+[RESULT]: Val. Epoch: 3, summary_loss: 0.43039, time: 51.64725
+
+2020-06-10T10:21:22.529553
+LR: 0.0004
+[RESULT]: Train. Epoch: 4, summary_loss: 0.48193, time: 662.53811
+[RESULT]: Val. Epoch: 4, summary_loss: 0.40895, time: 51.31828
+
+2020-06-10T10:33:17.123969
+LR: 0.0004
+[RESULT]: Train. Epoch: 5, summary_loss: 0.47153, time: 663.13970
+[RESULT]: Val. Epoch: 5, summary_loss: 0.41935, time: 51.70784
+
+2020-06-10T10:45:12.351470
+LR: 0.0004
+[RESULT]: Train. Epoch: 6, summary_loss: 0.46945, time: 664.43281
+[RESULT]: Val. Epoch: 6, summary_loss: 0.40533, time: 51.51710
+
+2020-06-10T10:57:09.042440
+LR: 0.0004
+[RESULT]: Train. Epoch: 7, summary_loss: 0.46657, time: 666.00447
+[RESULT]: Val. Epoch: 7, summary_loss: 0.40053, time: 51.41821
+
+2020-06-10T11:09:07.211122
+LR: 0.0004
+[RESULT]: Train. Epoch: 8, summary_loss: 0.45915, time: 661.38190
+[RESULT]: Val. Epoch: 8, summary_loss: 0.40354, time: 51.43725
+
+2020-06-10T11:21:00.411310
+LR: 0.0004
+[RESULT]: Train. Epoch: 9, summary_loss: 0.45412, time: 662.74584
+[RESULT]: Val. Epoch: 9, summary_loss: 0.39669, time: 51.52783
+
+2020-06-10T11:32:55.467800
+LR: 0.0004
+[RESULT]: Train. Epoch: 10, summary_loss: 0.45304, time: 663.94781
+[RESULT]: Val. Epoch: 10, summary_loss: 0.38826, time: 51.44369
+
+2020-06-10T11:44:51.607336
+LR: 0.0004
+[RESULT]: Train. Epoch: 11, summary_loss: 0.44888, time: 665.63665
+[RESULT]: Val. Epoch: 11, summary_loss: 0.39399, time: 51.37978
+
+2020-06-10T11:56:49.006736
+LR: 0.0004
+[RESULT]: Train. Epoch: 12, summary_loss: 0.44711, time: 665.89910
+[RESULT]: Val. Epoch: 12, summary_loss: 0.39041, time: 51.53799
+
+2020-06-10T12:08:46.912634
+LR: 0.0002
+[RESULT]: Train. Epoch: 13, summary_loss: 0.43133, time: 662.53033
+[RESULT]: Val. Epoch: 13, summary_loss: 0.38372, time: 51.46512
+
+2020-06-10T12:20:41.666092
+LR: 0.0002
+[RESULT]: Train. Epoch: 14, summary_loss: 0.42726, time: 662.21739
+[RESULT]: Val. Epoch: 14, summary_loss: 0.37716, time: 51.54361
+
+2020-06-10T12:32:36.230947
+LR: 0.0002
+[RESULT]: Train. Epoch: 15, summary_loss: 0.42564, time: 664.53452
+[RESULT]: Val. Epoch: 15, summary_loss: 0.37552, time: 51.50259
+
+2020-06-10T12:44:33.040082
+LR: 0.0002
+[RESULT]: Train. Epoch: 16, summary_loss: 0.42419, time: 662.58604
+[RESULT]: Val. Epoch: 16, summary_loss: 0.37898, time: 51.45523
+
+2020-06-10T12:56:27.467279
+LR: 0.0002
+[RESULT]: Train. Epoch: 17, summary_loss: 0.42247, time: 662.90434
+[RESULT]: Val. Epoch: 17, summary_loss: 0.37379, time: 51.34023
+
+2020-06-10T13:08:22.456880
+LR: 0.0002
+[RESULT]: Train. Epoch: 18, summary_loss: 0.42128, time: 660.87559
+[RESULT]: Val. Epoch: 18, summary_loss: 0.37740, time: 51.20120
+
+2020-06-10T13:20:14.917677
+LR: 0.0002
+[RESULT]: Train. Epoch: 19, summary_loss: 0.42149, time: 661.23090
+[RESULT]: Val. Epoch: 19, summary_loss: 0.37585, time: 51.45552
+
+2020-06-10T13:32:07.990057
+LR: 0.0001
+[RESULT]: Train. Epoch: 20, summary_loss: 0.41201, time: 661.76088
+[RESULT]: Val. Epoch: 20, summary_loss: 0.36899, time: 51.48178
+
+2020-06-10T13:44:02.011609
+LR: 0.0001
+[RESULT]: Train. Epoch: 21, summary_loss: 0.41208, time: 661.12108
+[RESULT]: Val. Epoch: 21, summary_loss: 0.37520, time: 51.55233
+
+2020-06-10T13:55:55.073957
+LR: 0.0001
+[RESULT]: Train. Epoch: 22, summary_loss: 0.41108, time: 659.10764
+[RESULT]: Val. Epoch: 22, summary_loss: 0.36785, time: 51.40879
+
+2020-06-10T14:07:46.330405
+LR: 0.0001
+[RESULT]: Train. Epoch: 23, summary_loss: 0.41195, time: 663.06635
+[RESULT]: Val. Epoch: 23, summary_loss: 0.37076, time: 51.51566
+
+2020-06-10T14:19:41.340318
+LR: 0.0001
+[RESULT]: Train. Epoch: 24, summary_loss: 0.40888, time: 659.92660
+[RESULT]: Val. Epoch: 24, summary_loss: 0.36622, time: 51.56668
+
+2020-06-10T14:31:33.590796
+LR: 0.0001
+[RESULT]: Train. Epoch: 25, summary_loss: 0.40758, time: 662.21107
+[RESULT]: Val. Epoch: 25, summary_loss: 0.36911, time: 51.49866
+
+2020-06-10T14:43:27.682478
+LR: 0.0001
+[RESULT]: Train. Epoch: 26, summary_loss: 0.40798, time: 660.35770
+[RESULT]: Val. Epoch: 26, summary_loss: 0.36807, time: 51.58254
+
+2020-06-10T14:55:20.011676
+LR: 5e-05
+[RESULT]: Train. Epoch: 27, summary_loss: 0.40150, time: 662.29845
+[RESULT]: Val. Epoch: 27, summary_loss: 0.36741, time: 51.42974
+
+2020-06-10T15:07:14.124802
+LR: 5e-05
+[RESULT]: Train. Epoch: 28, summary_loss: 0.40039, time: 658.49311
+[RESULT]: Val. Epoch: 28, summary_loss: 0.36376, time: 51.49549
+
+2020-06-10T15:19:04.863390
+LR: 5e-05
+[RESULT]: Train. Epoch: 29, summary_loss: 0.40207, time: 660.86846
+[RESULT]: Val. Epoch: 29, summary_loss: 0.36639, time: 51.59069
+
+2020-06-10T15:30:57.708540
+LR: 5e-05
+[RESULT]: Train. Epoch: 30, summary_loss: 0.40231, time: 662.29834
+[RESULT]: Val. Epoch: 30, summary_loss: 0.36393, time: 51.47486
+
+2020-06-10T15:42:51.897660
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 31, summary_loss: 0.40383, time: 662.31333
+[RESULT]: Val. Epoch: 31, summary_loss: 0.36351, time: 51.48385
+
+2020-06-10T15:54:46.431836
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 32, summary_loss: 0.40273, time: 660.16502
+[RESULT]: Val. Epoch: 32, summary_loss: 0.36336, time: 51.43303
+
+2020-06-10T16:06:38.777853
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 33, summary_loss: 0.39778, time: 660.95077
+[RESULT]: Val. Epoch: 33, summary_loss: 0.36474, time: 51.48520
+
+2020-06-10T16:18:31.597801
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 34, summary_loss: 0.39763, time: 662.46327
+[RESULT]: Val. Epoch: 34, summary_loss: 0.36382, time: 51.54318
+
+2020-06-10T16:30:26.080004
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 35, summary_loss: 0.39683, time: 660.10484
+[RESULT]: Val. Epoch: 35, summary_loss: 0.36295, time: 51.49696
+
+2020-06-10T16:42:18.430327
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 36, summary_loss: 0.39740, time: 659.06455
+[RESULT]: Val. Epoch: 36, summary_loss: 0.36407, time: 51.33892
+
+2020-06-10T16:54:09.214754
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 37, summary_loss: 0.39674, time: 662.43983
+[RESULT]: Val. Epoch: 37, summary_loss: 0.36229, time: 51.52318
+
+2020-06-10T17:06:03.917783
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 38, summary_loss: 0.39677, time: 658.80389
+[RESULT]: Val. Epoch: 38, summary_loss: 0.36313, time: 51.33923
+
+2020-06-10T17:17:54.466826
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 39, summary_loss: 0.39656, time: 660.57973
+[RESULT]: Val. Epoch: 39, summary_loss: 0.36346, time: 51.39837
+Fitter prepared. Device is cuda:0
+
+2020-06-12T03:14:05.684752
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-06-12T03:21:12.654087
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-06-12T03:22:45.405320
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-06-12T03:24:01.017502
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-06-12T03:24:44.855800
+LR: 0.0004
+[RESULT]: Train. Epoch: 0, summary_loss: 0.75378, time: 960.76888
+[RESULT]: Val. Epoch: 0, summary_loss: 0.52150, time: 69.90150
+
+2020-06-12T03:41:56.279222
+LR: 0.0004
+[RESULT]: Train. Epoch: 1, summary_loss: 0.62478, time: 947.72299
+[RESULT]: Val. Epoch: 1, summary_loss: 0.44103, time: 69.97383
+
+2020-06-12T03:58:54.769929
+LR: 0.0004
+[RESULT]: Train. Epoch: 2, summary_loss: 0.60106, time: 948.21880
+[RESULT]: Val. Epoch: 2, summary_loss: 0.45101, time: 69.81625
+
+2020-06-12T04:15:53.185022
+LR: 0.0004
+[RESULT]: Train. Epoch: 3, summary_loss: 0.58815, time: 945.98242
+[RESULT]: Val. Epoch: 3, summary_loss: 0.45517, time: 69.85209
+
+2020-06-12T04:32:49.402549
+LR: 0.0002
+[RESULT]: Train. Epoch: 4, summary_loss: 0.55367, time: 946.47979
+[RESULT]: Val. Epoch: 4, summary_loss: 0.41840, time: 69.80008
+
+2020-06-12T04:49:46.421437
+LR: 0.0002
+[RESULT]: Train. Epoch: 5, summary_loss: 0.54388, time: 953.01591
+[RESULT]: Val. Epoch: 5, summary_loss: 0.41903, time: 69.86914
+
+2020-06-12T05:06:49.734371
+LR: 0.0002
+[RESULT]: Train. Epoch: 6, summary_loss: 0.54051, time: 949.55782
+[RESULT]: Val. Epoch: 6, summary_loss: 0.40497, time: 73.04764
+
+2020-06-12T05:23:53.093832
+LR: 0.0002
+[RESULT]: Train. Epoch: 7, summary_loss: 0.53467, time: 973.64142
+[RESULT]: Val. Epoch: 7, summary_loss: 0.41355, time: 70.07093
+
+2020-06-12T05:41:17.186261
+LR: 0.0002
+[RESULT]: Train. Epoch: 8, summary_loss: 0.52982, time: 948.95407
+[RESULT]: Val. Epoch: 8, summary_loss: 0.40328, time: 69.91351
+
+2020-06-12T05:58:16.793889
+LR: 0.0002
+[RESULT]: Train. Epoch: 9, summary_loss: 0.52377, time: 948.00204
+[RESULT]: Val. Epoch: 9, summary_loss: 0.40006, time: 70.58407
+
+2020-06-12T06:15:16.200733
+LR: 0.0002
+[RESULT]: Train. Epoch: 10, summary_loss: 0.52385, time: 956.21887
+[RESULT]: Val. Epoch: 10, summary_loss: 0.40095, time: 70.14912
+
+2020-06-12T06:32:22.950651
+LR: 0.0002
+[RESULT]: Train. Epoch: 11, summary_loss: 0.52020, time: 952.68270
+[RESULT]: Val. Epoch: 11, summary_loss: 0.39620, time: 70.25905
+
+2020-06-12T06:49:26.676340
+LR: 0.0002
+[RESULT]: Train. Epoch: 12, summary_loss: 0.51962, time: 951.07834
+[RESULT]: Val. Epoch: 12, summary_loss: 0.38915, time: 71.57402
+
+2020-06-12T07:06:30.123573
+LR: 0.0002
+[RESULT]: Train. Epoch: 13, summary_loss: 0.51590, time: 948.13074
+[RESULT]: Val. Epoch: 13, summary_loss: 0.41341, time: 71.30366
+
+2020-06-12T07:23:29.939945
+LR: 0.0002
+[RESULT]: Train. Epoch: 14, summary_loss: 0.51266, time: 957.59170
+[RESULT]: Val. Epoch: 14, summary_loss: 0.40059, time: 71.86761
+
+2020-06-12T07:40:39.803169
+LR: 0.0001
+[RESULT]: Train. Epoch: 15, summary_loss: 0.50375, time: 969.87347
+[RESULT]: Val. Epoch: 15, summary_loss: 0.39027, time: 72.71772
+
+2020-06-12T07:58:02.789277
+LR: 0.0001
+[RESULT]: Train. Epoch: 16, summary_loss: 0.49682, time: 949.99685
+[RESULT]: Val. Epoch: 16, summary_loss: 0.39168, time: 70.39922
+
+2020-06-12T08:15:03.564420
+LR: 5e-05
+[RESULT]: Train. Epoch: 17, summary_loss: 0.49533, time: 944.33057
+[RESULT]: Val. Epoch: 17, summary_loss: 0.38233, time: 70.50982
+
+2020-06-12T08:31:59.197746
+LR: 5e-05
+[RESULT]: Train. Epoch: 18, summary_loss: 0.49218, time: 950.52176
+[RESULT]: Val. Epoch: 18, summary_loss: 0.38648, time: 70.39097
+
+2020-06-12T08:49:00.565201
+LR: 5e-05
+[RESULT]: Train. Epoch: 19, summary_loss: 0.49238, time: 953.23954
+[RESULT]: Val. Epoch: 19, summary_loss: 0.38204, time: 70.40178
+
+2020-06-12T09:06:04.986432
+LR: 5e-05
+[RESULT]: Train. Epoch: 20, summary_loss: 0.48798, time: 945.48255
+[RESULT]: Val. Epoch: 20, summary_loss: 0.38226, time: 70.11221
+
+2020-06-12T09:23:00.993175
+LR: 5e-05
+[RESULT]: Train. Epoch: 21, summary_loss: 0.49138, time: 946.38132
+[RESULT]: Val. Epoch: 21, summary_loss: 0.38569, time: 70.34217
+
+2020-06-12T09:39:58.096621
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 22, summary_loss: 0.48779, time: 952.92455
+[RESULT]: Val. Epoch: 22, summary_loss: 0.37868, time: 70.14068
+
+2020-06-12T09:57:01.902830
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 23, summary_loss: 0.48553, time: 952.68490
+[RESULT]: Val. Epoch: 23, summary_loss: 0.38141, time: 70.54177
+
+2020-06-12T10:14:05.517463
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 24, summary_loss: 0.48602, time: 951.89649
+[RESULT]: Val. Epoch: 24, summary_loss: 0.37911, time: 70.56706
+
+2020-06-12T10:31:08.366969
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 25, summary_loss: 0.48139, time: 947.19679
+[RESULT]: Val. Epoch: 25, summary_loss: 0.38303, time: 70.41963
+
+2020-06-12T10:48:06.399255
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 26, summary_loss: 0.48274, time: 951.24568
+[RESULT]: Val. Epoch: 26, summary_loss: 0.37722, time: 70.11674
+
+2020-06-12T11:05:08.536631
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 27, summary_loss: 0.48282, time: 953.03938
+[RESULT]: Val. Epoch: 27, summary_loss: 0.37767, time: 70.37205
+
+2020-06-12T11:22:12.332972
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 28, summary_loss: 0.48198, time: 947.96783
+[RESULT]: Val. Epoch: 28, summary_loss: 0.37742, time: 70.13440
+
+2020-06-12T11:39:10.816186
+LR: 6.25e-06
+[RESULT]: Train. Epoch: 29, summary_loss: 0.48078, time: 951.55473
+[RESULT]: Val. Epoch: 29, summary_loss: 0.37856, time: 70.35067
+
+2020-06-12T11:56:13.109617
+LR: 6.25e-06
+[RESULT]: Train. Epoch: 30, summary_loss: 0.48164, time: 949.73925
+[RESULT]: Val. Epoch: 30, summary_loss: 0.37860, time: 70.35075
+
+2020-06-12T12:13:13.588548
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 31, summary_loss: 0.48463, time: 949.25687
+[RESULT]: Val. Epoch: 31, summary_loss: 0.37632, time: 70.13680
+
+2020-06-12T12:30:13.783111
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 32, summary_loss: 0.48393, time: 952.35972
+[RESULT]: Val. Epoch: 32, summary_loss: 0.37823, time: 70.16370
+
+2020-06-12T12:47:16.688541
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 33, summary_loss: 0.48032, time: 954.62733
+[RESULT]: Val. Epoch: 33, summary_loss: 0.37808, time: 70.18639
+
+2020-06-12T13:04:21.960072
+LR: 1.5625e-06
+[RESULT]: Train. Epoch: 34, summary_loss: 0.48162, time: 950.94591
+[RESULT]: Val. Epoch: 34, summary_loss: 0.37716, time: 70.26754
+
+2020-06-12T13:21:23.591440
+LR: 1.5625e-06
+[RESULT]: Train. Epoch: 35, summary_loss: 0.48140, time: 954.82433
+[RESULT]: Val. Epoch: 35, summary_loss: 0.37729, time: 70.36830
+
+2020-06-12T13:38:29.172063
+LR: 7.8125e-07
+[RESULT]: Train. Epoch: 36, summary_loss: 0.47912, time: 950.96799
+[RESULT]: Val. Epoch: 36, summary_loss: 0.37694, time: 70.37272
+
+2020-06-12T13:55:30.893738
+LR: 7.8125e-07
+[RESULT]: Train. Epoch: 37, summary_loss: 0.47957, time: 953.01341
+[RESULT]: Val. Epoch: 37, summary_loss: 0.37682, time: 70.03248
+
+2020-06-12T14:12:34.325619
+LR: 3.90625e-07
+[RESULT]: Train. Epoch: 38, summary_loss: 0.48245, time: 950.05239
+[RESULT]: Val. Epoch: 38, summary_loss: 0.37616, time: 70.34004
+
+2020-06-12T14:29:35.479085
+LR: 3.90625e-07
+[RESULT]: Train. Epoch: 39, summary_loss: 0.48080, time: 955.03733
+[RESULT]: Val. Epoch: 39, summary_loss: 0.37796, time: 70.20577
+Fitter prepared. Device is cuda:0
+
+2020-06-16T01:39:12.697818
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-06-16T01:42:07.914275
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-07-08T03:30:55.202514
+LR: 0.0004
+Fitter prepared. Device is cuda:0
+
+2020-07-08T03:41:43.094185
+LR: 0.0004
+[RESULT]: Train. Epoch: 0, summary_loss: 0.54468, time: 500.05729
+[RESULT]: Val. Epoch: 0, summary_loss: 0.39735, time: 34.10109
+
+2020-07-08T03:50:38.478738
+LR: 0.0004
+[RESULT]: Train. Epoch: 1, summary_loss: 0.53365, time: 497.80822
+[RESULT]: Val. Epoch: 1, summary_loss: 0.39979, time: 33.22234
+
+2020-07-08T03:59:30.182991
+LR: 0.0004
+[RESULT]: Train. Epoch: 2, summary_loss: 0.52772, time: 501.74865
+[RESULT]: Val. Epoch: 2, summary_loss: 0.40646, time: 33.36696
+
+2020-07-08T04:08:25.882874
+LR: 0.0002
+[RESULT]: Train. Epoch: 3, summary_loss: 0.50669, time: 497.68303
+[RESULT]: Val. Epoch: 3, summary_loss: 0.39637, time: 32.71926
+
+2020-07-08T04:17:17.460450
+LR: 0.0002
+[RESULT]: Train. Epoch: 4, summary_loss: 0.50315, time: 498.77863
+[RESULT]: Val. Epoch: 4, summary_loss: 0.38785, time: 32.69320
+
+2020-07-08T04:26:10.058042
+LR: 0.0002
+[RESULT]: Train. Epoch: 5, summary_loss: 0.49804, time: 499.77279
+[RESULT]: Val. Epoch: 5, summary_loss: 0.38343, time: 32.44960
+
+2020-07-08T04:35:03.238713
+LR: 0.0002
+[RESULT]: Train. Epoch: 6, summary_loss: 0.49835, time: 498.47549
+[RESULT]: Val. Epoch: 6, summary_loss: 0.38549, time: 32.60426
+
+2020-07-08T04:43:54.922733
+LR: 0.0002
+[RESULT]: Train. Epoch: 7, summary_loss: 0.49515, time: 497.92983
+[RESULT]: Val. Epoch: 7, summary_loss: 0.38617, time: 32.49323
+
+2020-07-08T04:52:46.127849
+LR: 0.0001
+[RESULT]: Train. Epoch: 8, summary_loss: 0.48497, time: 499.82488
+[RESULT]: Val. Epoch: 8, summary_loss: 0.37668, time: 32.46326
+
+2020-07-08T05:01:39.642203
+LR: 0.0001
+[RESULT]: Train. Epoch: 9, summary_loss: 0.48282, time: 498.67026
+[RESULT]: Val. Epoch: 9, summary_loss: 0.37852, time: 32.60990
+
+2020-07-08T05:10:31.633690
+LR: 0.0001
+[RESULT]: Train. Epoch: 10, summary_loss: 0.48328, time: 499.30092
+[RESULT]: Val. Epoch: 10, summary_loss: 0.37629, time: 32.44003
+
+2020-07-08T05:19:24.772898
+LR: 0.0001
+[RESULT]: Train. Epoch: 11, summary_loss: 0.48319, time: 497.06695
+[RESULT]: Val. Epoch: 11, summary_loss: 0.38350, time: 32.47777
+
+2020-07-08T05:28:15.038560
+LR: 0.0001
+[RESULT]: Train. Epoch: 12, summary_loss: 0.48466, time: 496.80565
+[RESULT]: Val. Epoch: 12, summary_loss: 0.37268, time: 32.56658
+
+2020-07-08T05:37:05.771097
+LR: 0.0001
+[RESULT]: Train. Epoch: 13, summary_loss: 0.47884, time: 499.14762
+[RESULT]: Val. Epoch: 13, summary_loss: 0.37586, time: 32.92235
+
+2020-07-08T05:45:58.675361
+LR: 0.0001
+[RESULT]: Train. Epoch: 14, summary_loss: 0.47973, time: 499.28109
+[RESULT]: Val. Epoch: 14, summary_loss: 0.37041, time: 33.11348
+
+2020-07-08T05:54:52.345722
+LR: 0.0001
+[RESULT]: Train. Epoch: 15, summary_loss: 0.48124, time: 497.75252
+[RESULT]: Val. Epoch: 15, summary_loss: 0.37504, time: 32.90780
+
+2020-07-08T06:03:43.756704
+LR: 0.0001
+[RESULT]: Train. Epoch: 16, summary_loss: 0.47430, time: 498.69009
+[RESULT]: Val. Epoch: 16, summary_loss: 0.37726, time: 32.89632
+
+2020-07-08T06:12:36.151316
+LR: 5e-05
+[RESULT]: Train. Epoch: 17, summary_loss: 0.46971, time: 501.29428
+[RESULT]: Val. Epoch: 17, summary_loss: 0.37216, time: 33.68900
+
+2020-07-08T06:21:31.922279
+LR: 5e-05
+[RESULT]: Train. Epoch: 18, summary_loss: 0.47728, time: 500.94112
+[RESULT]: Val. Epoch: 18, summary_loss: 0.37135, time: 32.82152
+
+2020-07-08T06:30:26.393830
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 19, summary_loss: 0.46688, time: 497.20402
+[RESULT]: Val. Epoch: 19, summary_loss: 0.37117, time: 33.06495
+
+2020-07-08T06:39:17.368808
+LR: 2.5e-05
+[RESULT]: Train. Epoch: 20, summary_loss: 0.46843, time: 499.09251
+[RESULT]: Val. Epoch: 20, summary_loss: 0.37043, time: 33.29434
+
+2020-07-08T06:48:10.547204
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 21, summary_loss: 0.46772, time: 501.43309
+[RESULT]: Val. Epoch: 21, summary_loss: 0.37069, time: 33.28130
+
+2020-07-08T06:57:06.115162
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 22, summary_loss: 0.46917, time: 495.12909
+[RESULT]: Val. Epoch: 22, summary_loss: 0.36959, time: 32.74723
+
+2020-07-08T07:05:55.380151
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 23, summary_loss: 0.46744, time: 498.70598
+[RESULT]: Val. Epoch: 23, summary_loss: 0.37023, time: 32.76394
+
+2020-07-08T07:14:47.677948
+LR: 1.25e-05
+[RESULT]: Train. Epoch: 24, summary_loss: 0.46630, time: 499.12774
+[RESULT]: Val. Epoch: 24, summary_loss: 0.37094, time: 33.62210
+
+2020-07-08T07:23:41.201123
+LR: 6.25e-06
+[RESULT]: Train. Epoch: 25, summary_loss: 0.46475, time: 496.20030
+[RESULT]: Val. Epoch: 25, summary_loss: 0.36962, time: 32.49564
+
+2020-07-08T07:32:30.676119
+LR: 6.25e-06
+[RESULT]: Train. Epoch: 26, summary_loss: 0.46734, time: 499.88388
+[RESULT]: Val. Epoch: 26, summary_loss: 0.36964, time: 32.77920
+
+2020-07-08T07:41:24.151371
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 27, summary_loss: 0.46555, time: 499.08380
+[RESULT]: Val. Epoch: 27, summary_loss: 0.36957, time: 32.93661
+
+2020-07-08T07:50:17.277003
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 28, summary_loss: 0.46401, time: 501.75114
+[RESULT]: Val. Epoch: 28, summary_loss: 0.36884, time: 33.16793
+
+2020-07-08T07:59:13.501087
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 29, summary_loss: 0.46848, time: 503.42996
+[RESULT]: Val. Epoch: 29, summary_loss: 0.37039, time: 33.26064
+
+2020-07-08T08:08:11.003268
+LR: 3.125e-06
+[RESULT]: Train. Epoch: 30, summary_loss: 0.46558, time: 496.89174
+[RESULT]: Val. Epoch: 30, summary_loss: 0.37003, time: 32.77705
+
+2020-07-08T08:17:01.412146
+LR: 1.5625e-06
+[RESULT]: Train. Epoch: 31, summary_loss: 0.46680, time: 496.88629
+[RESULT]: Val. Epoch: 31, summary_loss: 0.36970, time: 32.72584
+
+2020-07-08T08:25:51.757772
+LR: 1.5625e-06
+[RESULT]: Train. Epoch: 32, summary_loss: 0.46379, time: 499.48709
+[RESULT]: Val. Epoch: 32, summary_loss: 0.36978, time: 33.44919
+
+2020-07-08T08:34:45.386070
+LR: 7.8125e-07
+[RESULT]: Train. Epoch: 33, summary_loss: 0.46166, time: 503.20950
+[RESULT]: Val. Epoch: 33, summary_loss: 0.36916, time: 32.98453
+
+2020-07-08T08:43:42.324556
+LR: 7.8125e-07
+[RESULT]: Train. Epoch: 34, summary_loss: 0.46638, time: 499.58830
+[RESULT]: Val. Epoch: 34, summary_loss: 0.36898, time: 32.56945
+
+2020-07-08T08:52:35.291090
+LR: 3.90625e-07
+[RESULT]: Train. Epoch: 35, summary_loss: 0.46388, time: 497.22954
+[RESULT]: Val. Epoch: 35, summary_loss: 0.36986, time: 32.97385
+
+2020-07-08T09:01:26.294601
+LR: 3.90625e-07
+[RESULT]: Train. Epoch: 36, summary_loss: 0.46246, time: 499.02192
+[RESULT]: Val. Epoch: 36, summary_loss: 0.37017, time: 32.66833
+
+2020-07-08T09:10:18.758764
+LR: 1.953125e-07
+[RESULT]: Train. Epoch: 37, summary_loss: 0.46270, time: 493.54230
+[RESULT]: Val. Epoch: 37, summary_loss: 0.36973, time: 32.91698
+
+2020-07-08T09:19:05.976916
+LR: 1.953125e-07
+[RESULT]: Train. Epoch: 38, summary_loss: 0.46515, time: 500.01038
+[RESULT]: Val. Epoch: 38, summary_loss: 0.36977, time: 32.66963
+
+2020-07-08T09:27:59.419248
+LR: 9.765625e-08
+[RESULT]: Train. Epoch: 39, summary_loss: 0.46424, time: 497.24679
+[RESULT]: Val. Epoch: 39, summary_loss: 0.36963, time: 33.01045
+Fitter prepared. Device is cuda:0
+
+2020-07-08T14:22:55.815489
+LR: 0.0004
+[RESULT]: Train. Epoch: 0, summary_loss: 0.51486, time: 497.63679
+[RESULT]: Val. Epoch: 0, summary_loss: 0.38791, time: 32.65401
+
+2020-07-08T14:31:47.438532
+LR: 0.0004
